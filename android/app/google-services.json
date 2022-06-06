@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "453085275317",
+    "project_id": "bookclub-14cd0",
+    "storage_bucket": "bookclub-14cd0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:453085275317:android:23ddc8351e5ba4d346cafc",
+        "android_client_info": {
+          "package_name": "com.example.book_reader"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "453085275317-oasb5sk6qor02oqoqsrc1utpkve6rvrg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.book_reader",
+            "certificate_hash": "9f426043056733d2fb822216e047c367746b29f6"
+          }
+        },
+        {
+          "client_id": "453085275317-s798j66okc37enuq0ib783141vsru76p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUXlspD7YUMGeFyzhDXNVcc1Bsi63J-4U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "453085275317-s798j66okc37enuq0ib783141vsru76p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
